@@ -3,7 +3,7 @@
 Config::Config()
 {
     //端口号,默认8000
-    PORT = 6666;
+    PORT = 8000;
 
     //日志写入方式，默认同步
     LOGWrite = 0;

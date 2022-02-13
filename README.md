@@ -35,8 +35,10 @@ make
 在浏览器端键入，看到如下界面说明运行成功
 
 ```
-http://localhost:6666/
+http://localhost:8000/
 ```
+
+![image-20220213145027176](root/jiemian.png)
 
 ## 项目介绍
 
@@ -68,3 +70,14 @@ cpu：i5-7300HQ
 这个是在LT模式下的测试结果，ET结果与之类似，可以看出服务器具有较好的并发性能，可以同时处理上万的连接及数据传输
 
 ![2022-02-04 11-04-33 的屏幕截图.png](https://github.com/Yan-Xiaodi/Image_respority/blob/master/img/2022-02-04%2011-04-33%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png?raw=true)
+
+
+
+## 访问服务器资源示例
+
+
+
+<video id="video" controls="" preload="none" >
+      <source id="mp4" src="./root/wangye.mp4" type="video/mp4">
+</videos>
+
