@@ -75,9 +75,11 @@ cpu：i5-7300HQ
 
 ## 访问服务器资源示例
 
+加载图片
 
+![image-20220213145027176](root/tupian.png)
 
-<video id="video" controls="" preload="none" >
-      <source id="mp4" src="./root/wangye.mp4" type="video/mp4">
-</videos>
+加载视频
+
+![image-20220213145027176](root/shipin.gif)
 
